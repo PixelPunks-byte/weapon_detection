@@ -1,6 +1,2 @@
 streamlit
 tensorflow
-tf-keras
-PIL
-numpy
-json
